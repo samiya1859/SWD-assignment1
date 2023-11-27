@@ -1,0 +1,177 @@
+.navbar{
+    background-color: #8800C7;
+}
+
+.navbar-brand{
+    width: 250px;
+    padding-left: 100px;
+}
+.search{
+width: 350px;
+
+}
+
+.nav-item a{
+color: white;
+}
+
+.back{
+    background-image: url('./13-132050_soft-gradient-color-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 700px;
+
+}
+@media(max-width:500px){
+
+.tocenter{
+    text-align: center;
+}
+.right2{
+    height: 350px;
+    margin-left: 120px;
+    margin-top: 50px;
+    padding: 50px;
+}
+.right1 img{
+    width: 250px !important;
+    height: 300px !important;
+    margin: 0;
+    padding-top: 80px;
+    display: block;
+    
+}
+
+.imghead{
+    width: 500px !important;
+    height: 400px;
+    margin-top: -90px;
+    margin-left: -310px;
+}
+.laptop{
+    width: 250px !important;
+    height: 130px !important;
+     margin-top: 50px;
+     margin-left: 70px;
+     margin-bottom: 50px;
+     
+ }
+ .pro{
+    margin-top:150px;
+    font-size: 20px;
+    text-align: center;
+}
+.Iphone{
+    font-size: 40px;
+    text-align: center;
+}
+utext{
+    font-size: 10px;
+    text-align: justify;
+    
+}
+.shop{
+    display: none;
+}
+}
+.imgw{
+    
+    width: 65%;
+    margin-top: 150px;
+    margin-left: 120px;
+}
+.shop{
+    background-color: #8800C7;
+    border-radius: 5px;
+    padding: 10px;
+    width: 120px;
+    color: white;
+}
+/* .fullrow{
+    margin-top: 100px;
+    
+} */
+
+.pro{
+    margin-top:150px;
+}
+
+.left{
+    background-color: #EDEDED;
+    
+}
+
+.right1{
+    height: 350px;
+    margin-left: -120px;
+    margin-top: 50px;
+}
+.right1 img{
+    width: 400px;
+    height: 250px;
+    margin: 20px;
+    padding-left: 50px;
+
+}
+.right2{
+    height: 350px;
+    
+}
+.mac{
+    margin-top: 150px;
+}
+.laptop{
+   width:700px;
+   height: 500px;
+    margin-top: 70px;
+    margin-left:50px;
+}
+.headph{
+    background-color: #ADC2D7;
+    height: 350px;
+}
+.imghead{
+    width: 650px;
+    height: 550px;
+    margin-top: -90px;
+    margin-left: -310px;
+}
+.cards{
+    
+    padding-left: 0px ;
+    padding-top: 30px;
+}
+
+.card i{
+    font-size: 50px;
+    padding-left: 50px;
+}
+.card h4{
+    font-weight: 200;
+    text-align: center;
+    margin-top: 10px;
+}
+.product{
+    width: 80%;
+}
+.img19{
+    width: 90%;
+    margin-top: 85px;
+    margin-left: -120px;
+}
+.img20{
+    width: 90%;
+    margin-top: 85px;
+    margin-left: 200px;
+}
+
+.iconsf i{
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+
+
